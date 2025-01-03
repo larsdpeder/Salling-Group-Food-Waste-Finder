@@ -1,3 +1,7 @@
+
+![Uploading Screenshot 2025-01-03 at 14.22.04.png…]()
+
+
 # Salling Group Food Waste Finder 🍽️
 
 This Python script helps you find discounted food products from Salling Group stores (Føtex, Netto, Basalt, and Bilka) that are about to expire. Help reduce food waste and save money!
