@@ -1,5 +1,5 @@
 
-![Uploading Screenshot 2025-01-03 at 14.22.04.png…]()
+<img width="675" alt="Screenshot 2025-01-03 at 14 22 04" src="https://github.com/user-attachments/assets/7269e62d-3900-46fd-bed3-4d4bb6c3fb18" />
 
 
 # Salling Group Food Waste Finder 🍽️
